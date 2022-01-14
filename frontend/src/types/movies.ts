@@ -16,4 +16,3 @@ export type MoviePage = {
     numberofElements: number;
     empty: boolean;
 }
-
